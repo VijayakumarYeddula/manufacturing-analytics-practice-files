@@ -8,7 +8,7 @@ license: CC-BY-4.0
 authors:
   - family-names: "Yeddula"
     given-names: "Vijayakumar Reddy"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID iD if you have one
+    orcid: "https://orcid.org/0009-0008-3998-500X"
 abstract: >-
   Synthetic manufacturing dataset (fictional plant Engxtech Manufacturing:
   production, maintenance, sensor, quality and monthly energy data), Power BI
