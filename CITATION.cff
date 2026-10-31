@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these practice files, please cite them as below."
+title: "Manufacturing Analytics for Engineers: practice files (Power BI)"
+type: dataset
+version: "1.0.0"
+date-released: "2026-11-01"
+license: CC-BY-4.0
+authors:
+  - family-names: "Yeddula"
+    given-names: "Vijayakumar Reddy"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID iD if you have one
+abstract: >-
+  Synthetic manufacturing dataset (fictional plant Engxtech Manufacturing:
+  production, maintenance, sensor, quality and monthly energy data), Power BI
+  start and finished files for 9 sections, a formula cheat sheet and a capstone
+  brief, accompanying the free video course Manufacturing Analytics for Engineers.
+keywords:
+  - manufacturing analytics
+  - Power BI
+  - OEE
+  - MTBF
+  - process capability
+  - statistical process control
+  - engineering education
+  - synthetic data

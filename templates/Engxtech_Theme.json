@@ -1,0 +1,41 @@
+{
+  "name": "Engxtech Industrial",
+  "dataColors": ["#2E7D8C", "#F0A202", "#1F3447", "#D64030", "#4E8F3A", "#8E6BB0", "#7FB7C2", "#F6C65B", "#7A8B99", "#B5562E"],
+  "background": "#FFFFFF",
+  "foreground": "#1F3447",
+  "tableAccent": "#2E7D8C",
+  "good": "#4E8F3A",
+  "neutral": "#F0A202",
+  "bad": "#D64030",
+  "maximum": "#1F3447",
+  "center": "#F0A202",
+  "minimum": "#D64030",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{ "show": true, "fontColor": { "solid": { "color": "#1F3447" } }, "fontSize": 13, "bold": true }],
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#D3DBE3" } }, "radius": 6 }],
+        "dropShadow": [{ "show": true, "preset": "BottomRight", "transparency": 85 }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#EEF2F6" } }, "transparency": 0 }]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "columnHeaders": [{ "fontColor": { "solid": { "color": "#FFFFFF" } }, "backColor": { "solid": { "color": "#1F3447" } }, "bold": true, "fontSize": 11 }],
+        "values": [{ "fontSize": 11, "backColorSecondary": { "solid": { "color": "#F4F7FA" } } }],
+        "total": [{ "fontColor": { "solid": { "color": "#1F3447" } }, "backColor": { "solid": { "color": "#FDF0D2" } }, "bold": true }]
+      }
+    },
+    "cardVisual": {
+      "*": {
+        "value": [{ "fontColor": { "solid": { "color": "#2E7D8C" } }, "fontSize": 28, "bold": true }],
+        "label": [{ "fontColor": { "solid": { "color": "#1F3447" } }, "fontSize": 12 }]
+      }
+    }
+  }
+}
